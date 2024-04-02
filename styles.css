@@ -1,0 +1,45 @@
+a{
+    color: black;
+}
+.mod{
+    color: #A5B4FC;
+}
+/* <uniquifier>: Use a unique and descriptive class name
+ <weight>: Use a value from 200 to 800 */
+
+.manrope-uniquifier {
+  font-family: "Manrope", sans-serif;
+  background-color: white;
+  color: #242424;
+}
+
+/* <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900 */
+
+.montserrat-uniquifier {
+  font-family: "Montserrat", sans-serif;
+  background-color: white;
+}
+.montserrat {
+    font-family: "Montserrat", sans-serif;
+  }
+h1{
+    font-size: 3.5em;
+    color: #A5B4FC;
+}
+p{
+    font-size: 1.1em;
+}
+ul{
+    font-size: 1em;
+}
+a{
+    text-decoration: none;
+    font-size: 1em;
+}
+body{
+    background-color: #1F2039;
+}
+.textcolor{
+    color: #F9F8FF;
+}
